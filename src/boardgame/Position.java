@@ -32,4 +32,9 @@ public class Position {
 		// TODO Auto-generated method stub
 		return row + ", " + column;
 	}
+	
+	public void setValues(int row, int column) {
+		this.row = row;
+		this.column = column;
+	}
 }
