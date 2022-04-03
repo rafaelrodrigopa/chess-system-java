@@ -5,10 +5,6 @@ public class Position {
 	private int row;
 	private int column;
 	
-	public Position() {
-		// TODO Auto-generated constructor stub
-	}
-
 	public Position(int row, int column) {
 		super();
 		this.row = row;
